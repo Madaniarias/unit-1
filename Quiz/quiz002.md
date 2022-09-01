@@ -13,3 +13,5 @@ if number_A == 20 or number_B == 20 or number_A + number_B == 20:
 
 print (f"The answe to the quiz 002 is {output}")
 ```
+
+![](quiz2.jpg)
