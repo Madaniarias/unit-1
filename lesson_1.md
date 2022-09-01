@@ -22,13 +22,11 @@ There are differnte variable types we can use in Python. Some of the most basic 
 
 ③ What are the four CTS?
 
-CTS defines two main kinds of types that should be supported: reference and value types. Their names point to their definitions.
-CTS defines several categories of types, each with their specific semantics and usage:
--Classes
--Structures
--Enums
--Interfaces
--Delegates
-[(Microsoft, 2021)](https://docs.microsoft.com/en-us/dotnet/standard/common-type-system)
+The four CTS are:
+
+Decomposition
+Pattern recognition
+Abstraction
+Algorithmic thinking
 
 
