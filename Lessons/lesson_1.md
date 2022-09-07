@@ -24,9 +24,10 @@ There are differnte variable types we can use in Python. Some of the most basic 
 
 The four CTS are:
 
-Decomposition
-Pattern recognition
-Abstraction
-Algorithmic thinking
+-Decomposition
+-Pattern recognition
+-Abstraction
+-Algorithmic thinking
 
-
+## COMPUTER ANATOMY 
+![Computer anatomy](https://user-images.githubusercontent.com/111761417/188859515-33163f71-f71d-4539-a2d9-98b9e61d4171.JPG)
