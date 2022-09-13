@@ -8,8 +8,25 @@ The pattern of colors continues in this manner. For example, locker number 15 wi
 
 Task 1: Create a program and the flow diagram that shows the colors of all the lockers from 1 to 2400.
 
+**Code**
+
+```.py
+locker = int(input("Indicate the number of lockers: "))
+i = 0
+locker_color = ["red", "white", "yellow", "blue"]
+locker_number = 1
+while i <= locker and locker_number <= locker:
+        print(f"Locker number {locker_number} {locker_color[i%4]}")
+        i = i + 1
+        locker_number = locker_number + 1
+```
+**Flow diagram**
+
+![image](https://user-images.githubusercontent.com/111761417/189787590-e5f9991d-3c8c-44b3-b70a-a68f1fabd2a6.png)
 
 Task 2: Using the program above, create another program that allows the user to enter a number and the program outputs the color that should be used in the locker.
+
+
 
 [HL] Task 3: Create a program that receives a color from the user, validates the input,  and outputs the numbers of the lockers of the color provided. Use at least 10 different functions for Manipulating Strings (Learning Log Item 19)
 
