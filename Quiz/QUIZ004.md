@@ -1,6 +1,6 @@
 # QUIZ 004
 
-## SL problem
+## CODE
 
 ```.py
 
