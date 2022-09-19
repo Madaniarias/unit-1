@@ -24,5 +24,6 @@ print (f"The answe to the quiz 002 is {output}")
 
 ## FLOW DIAGRAM
 
+![image](https://user-images.githubusercontent.com/111761417/190994861-5e43da5e-5a4f-4f82-8c88-2f5ce9924248.png)
 
 
