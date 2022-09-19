@@ -1,6 +1,6 @@
 # QUIZ 003
 
-## SL problem
+## CODE
 
 ```.py
 
@@ -21,6 +21,14 @@ if in_protein == "C":
 print (f"Your new protein is {output}")
 
 ```
-## HL problem
+
+## TEST
+
+![Screen Shot 2022-09-19 at 19 08 52](https://user-images.githubusercontent.com/111761417/190995416-907ebb99-7490-4f6e-976e-9ef161e8b87a.png)
+
+## FLOW DIAGRAM
+
+![image](https://user-images.githubusercontent.com/111761417/190996460-002094f1-0d94-4920-8759-22dac9dc9fb0.png)
+
 
 
