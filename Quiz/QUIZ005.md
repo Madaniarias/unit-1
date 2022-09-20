@@ -29,4 +29,5 @@ print(f"The divisors for the number {user} are {number}{output}")
 
 ## FLOW DIAGRAM
 
-![image](https://user-images.githubusercontent.com/111761417/191048453-67d75441-9969-4414-a3e5-145a095ce1dc.png)
+![image](https://user-images.githubusercontent.com/111761417/191304107-8914fd47-ffee-4b16-be4f-0f6fe1de2535.png)
+
