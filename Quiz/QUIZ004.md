@@ -11,7 +11,7 @@ The purpuse is to check if the number entered by the user is a perfect number or
 
 ## FLOW DIAGRAM IMPROVED
 
-![image](https://user-images.githubusercontent.com/111761417/191009115-71cd4545-1ad7-447b-b101-15c04b6bcda8.png)
+![image](https://user-images.githubusercontent.com/111761417/191173792-6d472d56-d564-45f4-aeef-ad84324fe01a.png)
 
 ## CODE FOR FLOW DIAGRAM IMPROVED
 
