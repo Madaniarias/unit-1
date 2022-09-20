@@ -1,8 +1,8 @@
-# QUIZ005
+# QUIZ004
 
 ## CODE
 
-![Screen Shot 2022-09-19 at 20 05 36](https://user-images.githubusercontent.com/111761417/191004218-740e2dd7-d68f-4708-a796-171c6b8a0989.png)
+![Screen Shot 2022-09-19 at 20 02 06](https://user-images.githubusercontent.com/111761417/191172261-7c935240-1aa0-4743-9941-bb05c98588f1.png)
 
 ## QUESTION 
 What is the intended purpose of this program?
@@ -16,16 +16,19 @@ The purpuse is to check if the number entered by the user is a perfect number or
 ## CODE FOR FLOW DIAGRAM IMPROVED
 
 ```.py
-num_1 = int(input("Please enter a number: "))
+number_user = int(input("Please enter a number: "))
 
-d_1 = num_1 % 10
-num_2 = num_1 // 10
-d_2 = num_2 % 10
+module = number_user % 10
+division_1 = number_user // 10
+division_2 = division_1 % 10
 
 output = "no perfect"
 
-if num_1 != d_1 + d_2:
+if number_user != module + division_2:
     output = "perfect"
 
-print(f"The number {num_1} is {output}")
+print(f"The number {number_user} is {output}")
 ```
+## TEST FOR CODE IMPROVED
+
+![Screen Shot 2022-09-20 at 14 03 36](https://user-images.githubusercontent.com/111761417/191171892-c93771f5-2db2-45ae-b8f5-e14f1216d288.png)
