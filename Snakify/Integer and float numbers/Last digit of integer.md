@@ -1,4 +1,5 @@
 # LAST DIGIT OF INTEGER
+Given an integer number, print its last digit.
 
 ![Screen Shot 2022-09-26 at 0 34 09](https://user-images.githubusercontent.com/111761417/192151963-772c8aa4-fa79-4e1b-8c75-232e75d1a3e9.png)
 ![Screen Shot 2022-09-26 at 0 34 37](https://user-images.githubusercontent.com/111761417/192151998-7962e600-b8fd-444e-8eb9-e10a972baf85.png)
