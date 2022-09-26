@@ -11,12 +11,12 @@ color_red = "\33[0;31m"
 
 length = input("Input the length you would like your password to have: ")
 while not length.isdigit():
-    length = input(f"{red} For this program to work, you need to input a number. Try again{end_code}")
+    length = input(f"For this program to work, you need to input a number. Try again")
 length = int(length)
 
 user_symbol = str(input("Input 'yes' if you would like your password to inlcude symbols. Input 'no' if you rather not have any symbols in your password: "))
 while not user_symbol in ["yes", "no"]:
-    user_symbol= str(input(f"{red} For this program to work, you need to input 'yes' or 'no'. Try again{end_code}"))
+    user_symbol= str(input(f"For this program to work, you need to input 'yes' or 'no'. Try again"))
 
 for n in range(10):
     password = ""
@@ -31,7 +31,6 @@ for n in range(10):
 
     print(f"The password number {n+1} will be{color_red} {password} {end_code}")
 
-print("Thank you for using the random password generator program.")
 ```
 
 ## TEST
@@ -40,3 +39,4 @@ print("Thank you for using the random password generator program.")
 
 ## FLOW DIAGRAM
 
+![Untitled Notebook (19)-3](https://user-images.githubusercontent.com/111761417/192337010-2db3e4fd-a89b-4d3a-953e-80752c2199a3.jpg)
