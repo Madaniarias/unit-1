@@ -26,4 +26,6 @@ print(test)
 
 ## FLOW DIAGRAM
 
+![Untitled Notebook (19)-6](https://user-images.githubusercontent.com/111761417/192451106-c5ac67c0-ca25-4d4d-8cd2-954bc5d509cb.jpg)
+
 
