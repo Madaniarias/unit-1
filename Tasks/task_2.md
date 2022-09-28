@@ -5,9 +5,13 @@ Complete the program for the EV calculator.
 ## Create charging_log.cvs to store the data
 
 date, charge, duration
+
 12.9.22, 8.878Kwh, 12:32:36
+
 15.9.22, 3.533Kwh, 5:02:23
+
 17.9.22, 6.828Kwh, 9:41:46
+
 18.9.22, 5.425Kwh, 7:43:35
 
 ![Screen Shot 2022-09-29 at 2 03 42](https://user-images.githubusercontent.com/111761417/192844834-1a8c5efd-fd2e-4640-911a-a9f4175925bb.png)
