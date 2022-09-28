@@ -17,9 +17,8 @@ date, charge, duration
 ![Screen Shot 2022-09-29 at 2 03 42](https://user-images.githubusercontent.com/111761417/192844834-1a8c5efd-fd2e-4640-911a-a9f4175925bb.png)
 
 ## CODE
-
 ```.py
-#Example program fro writting and reading file in python
+#Example program for writting and reading file in python
 
 from my_library import validate_int_input
 
@@ -30,7 +29,7 @@ intro_msg = f"[colors[2] Welcome to EV calculator{end_code}"
 print (intro_msg.center(50, "-"))
 
 #""" lets you print multiple lines in one
-menu = """ 1. Show avergae time per KWh\n
+menu = """1. Average time per KWh
 2. Total KWh used
 3. Total charge time
 4. Show all data
@@ -61,6 +60,7 @@ if option == 4:
         print(f"{colors[2]} Log.No {i} {line}{end_code}")
     i += 1
 
+#solve option 2: Total KWh used
 if option == 2:
     i = 0
     total_energy = 0.0
@@ -75,7 +75,12 @@ if option == 2:
 
     print(f"{colors[1]} Total energy used so far {total_energy} KWh {end_code}")
 
+#solve option 1: Average time per KWh
+if option ==1:
+
+
 print("Bye Bye".center(50,"#"))
+
 ```
 
 ## TEST
