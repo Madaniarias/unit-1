@@ -5,20 +5,28 @@
 ```.py
 #Create a function that receives as input a string and returns the string ciphered with a shift 13.
 
+def stringciphered (shift:int, user)->str:
+    out = ""
+    for character in user:
+        ord_1 = ord(character)
+        if ord_1==32:
+            ord_2=32
+        else:
+            ord_2=ord_1+shift
+        if ord_2>122:
+            ord_2-=26
+        out += chr(ord_2)
+    return out
+
+
+
 user = input("Introduce the word/sentence you would like to cipher: ")
 user = user.lower()
 shift = int(input("Introduce the desired shift for your word/sentence: "))
 shift = shift%26
 
-for character in user:
-    ord_1 = ord(character)
-    if ord_1==32:
-        ord_2=32
-    else:
-        ord_2=ord_1+shift
-        if ord_2>122:
-            ord_2-=26
-    print(chr(ord_2), end="")
+test = stringciphered(shift, user)
+print(test)
     
 ```
 
