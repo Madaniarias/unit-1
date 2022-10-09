@@ -36,4 +36,5 @@ print(test)
 
 ## FLOW DIAGRAM
 
+![image](https://user-images.githubusercontent.com/111761417/194784508-40b13766-06d4-4d57-a973-4d3592c5edad.png)
 
