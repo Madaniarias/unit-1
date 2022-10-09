@@ -25,7 +25,7 @@ from my_library import validate_int_input
 colors =  ["\033[0;30m", "\033[0;31m", "\033[0;32m", "\033[0;34m"]
 end_code = "\033[00m"
 
-intro_msg = f"[colors[2] Welcome to EV calculator{end_code}"
+intro_msg = (f"{colors[2]} Welcome to EV calculator{end_code}")
 print (intro_msg.center(50, "-"))
 
 #""" lets you print multiple lines in one
@@ -112,10 +112,11 @@ print("Bye Bye".center(50,"#"))
 ```
 
 ## TESTS
-![Screen Shot 2022-10-10 at 8 10 41](https://user-images.githubusercontent.com/111761417/194783907-ed362f20-e201-4ce4-aaa1-36c1f50aa5cd.png)
-![Screen Shot 2022-10-10 at 8 10 48](https://user-images.githubusercontent.com/111761417/194783915-413bc406-b79a-4d94-855a-31cc2b2b609f.png)
-![Screen Shot 2022-10-10 at 8 10 56](https://user-images.githubusercontent.com/111761417/194783918-e4318c86-58da-4ccb-b85b-a5f7524b9e22.png)
-![Screen Shot 2022-10-10 at 8 11 17](https://user-images.githubusercontent.com/111761417/194783921-033616b2-7133-4adc-94c7-6b9076124e72.png)
+![Screen Shot 2022-10-10 at 8 15 08](https://user-images.githubusercontent.com/111761417/194784033-0de820d3-e927-4051-9f49-52ef470c1380.png)
+![Screen Shot 2022-10-10 at 8 15 21](https://user-images.githubusercontent.com/111761417/194784038-b68b8d5e-0cf7-45f0-88c2-3674ccbdb560.png)
+![Screen Shot 2022-10-10 at 8 15 30](https://user-images.githubusercontent.com/111761417/194784045-1166564c-4827-4e69-af16-5ce94f2dc590.png)
+![Screen Shot 2022-10-10 at 8 15 37](https://user-images.githubusercontent.com/111761417/194784048-ba45af0f-5519-40f3-b8e0-f0eefffb0ae7.png)
+
 
 
 
