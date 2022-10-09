@@ -33,3 +33,6 @@ print(case_4)
 ![Screen Shot 2022-10-04 at 9 47 51](https://user-images.githubusercontent.com/111761417/193711044-40fc1efe-a9dd-4e68-bbae-648906dc9a9d.png)
 
 ## FLOW DIAGRAM
+
+![image](https://user-images.githubusercontent.com/111761417/194781959-6d67aed6-c6ff-443f-aea8-039084496d07.png)
+
