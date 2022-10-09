@@ -23,3 +23,5 @@ print(out)
 ![Screen Shot 2022-09-30 at 16 12 33](https://user-images.githubusercontent.com/111761417/193212703-06ae5b4f-d8a4-4a77-bd32-689bfa866919.png)
 
 ## FLOW DIAGRAM
+
+![image](https://user-images.githubusercontent.com/111761417/194781924-0df0b927-0218-47a3-8d07-f225835a45ac.png)
