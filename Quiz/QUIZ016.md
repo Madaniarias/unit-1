@@ -38,3 +38,5 @@ print(test1)
 ![Screen Shot 2022-10-07 at 11 40 40](https://user-images.githubusercontent.com/111761417/194456696-577c5b9f-6e27-452c-934b-bc011ac6f10e.png)
 
 ## FLOW DIAGRAM
+
+![image](https://user-images.githubusercontent.com/111761417/194788227-0f8b28d0-c870-4bdb-b4f1-4a844761552d.png)
