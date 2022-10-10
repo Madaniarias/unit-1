@@ -35,3 +35,5 @@ print("\n".join(power(separate)))
 ![Screen Shot 2022-10-10 at 7 41 41](https://user-images.githubusercontent.com/111761417/194782882-9d6cd170-d480-4407-aab3-0f7df25b91ae.png)
 
 ## FLOW DIAGRAM
+
+![image](https://user-images.githubusercontent.com/111761417/194785635-795f31f3-ba17-456b-b71f-b86fc02e8880.png)
