@@ -29,5 +29,5 @@ print(f"The number of doors open for {number_students} students is {out}.")
 
 ![Screen Shot 2022-10-06 at 14 03 40](https://user-images.githubusercontent.com/111761417/194218618-9c1a9144-7116-4b93-9ef4-cf19cf395336.png)
 
-
 ## FLOW DIAGRAM
+![image](https://user-images.githubusercontent.com/111761417/194787210-8ec99ece-f757-41ae-8264-c493cd8e53e9.png)
